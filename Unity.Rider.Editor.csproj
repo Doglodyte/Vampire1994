@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BFD5B43D-E239-2D47-BAA2-C467862F9ABB}</ProjectGuid>
+    <ProjectGuid>{3981AA5E-D758-1E7F-A40D-CAC0DFEE5969}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Rider.Editor</AssemblyName>
@@ -282,7 +282,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/benwe/Documents/Unity Projects/Vampire 1994/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/benwe/Documents/GitHub/Vampire1994/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -641,15 +641,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{E52633B6-136E-AAF6-ABB9-463029A7042A}</Project>
+      <Project>{C9E77224-7FA8-0425-6924-1AF15341BD9D}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{FBB277C9-09B7-224A-A8CA-0EE15DBD3A60}</Project>
+      <Project>{8E3452AA-986C-FB2F-9B9C-EDDCE7452816}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{80600661-E488-D5E4-510E-BEF46C9F11DC}</Project>
+      <Project>{48EFAF28-7E93-E25D-6B53-BC4932D59F99}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

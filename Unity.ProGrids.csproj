@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E4A64EAF-E594-40A4-45CE-B0593368DFB3}</ProjectGuid>
+    <ProjectGuid>{54B0D23C-29D6-3BB2-BFFE-C1DB7F38BA57}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.ProGrids</AssemblyName>
@@ -610,11 +610,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{FBB277C9-09B7-224A-A8CA-0EE15DBD3A60}</Project>
+      <Project>{8E3452AA-986C-FB2F-9B9C-EDDCE7452816}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{80600661-E488-D5E4-510E-BEF46C9F11DC}</Project>
+      <Project>{48EFAF28-7E93-E25D-6B53-BC4932D59F99}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
