@@ -19,7 +19,7 @@ public class SpriteManager : MonoBehaviour
     const string SOUTH = "South";
     const string SWEST = "SWest";
     const string WEST = "West";
-    const string NWest = "NWest";
+    const string NWEST = "NWest";
 
 
     void Start()
@@ -34,10 +34,24 @@ public class SpriteManager : MonoBehaviour
         relativePlayerPos = GetComponentInParent<Transform>().position - player.transform.position;
         relativePlayerPos = Vector3.Normalize(relativePlayerPos);
 
-        animator.SetFloat("relativePlayerPosX", relativePlayerPos.x);
-        animator.SetFloat("relativePlayerPosZ", relativePlayerPos.z);
-
         Debug.Log(relativePlayerPos);
+
+        FigureOutAnimationState();
+    }
+
+    void FigureOutAnimationState()
+    {
+        if ((relativePlayerPos.x > 0.7) && (relativePlayerPos.z < 0.7))
+        {
+            if (currentState == NORTH)
+            {
+                ChangeAnimationState(NEAST);
+            }
+            else if ((relativePlayerPos.x < 0.7) && (relativePlayerPos.z > 0.7))
+            {
+                ChangeAnimationState(NORTH);
+            }
+        }
     }
 
     void ChangeAnimationState(string newState)

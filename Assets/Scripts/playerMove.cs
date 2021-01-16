@@ -59,11 +59,53 @@ public class playerMove : MonoBehaviour
             gravity = gravityBase;
         }
 
-        MoveAndSprint();
 
-        Jumping();
-        
-        MouseLook();
+        //Get WASD Input
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        //Apply WASD Input
+        Vector3 move = transform.right * x + transform.forward * z;
+        controller.Move(move * speed * Time.deltaTime);
+
+
+        //Sprinting
+        if (Input.GetKeyDown("left shift") && speed == speedBase)
+        {
+            speed = speedRun;
+        }
+        else if (Input.GetKeyDown("left shift") && speed == speedRun)
+        {
+            speed = speedBase;
+        }
+
+
+
+        //Jumping
+        if (Input.GetKeyDown("space") && isGrounded)
+        {
+            gravity = gravityBase * gravityMultLowJump;
+            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+        }
+        else if (Input.GetKeyUp("space"))
+        {
+            gravity = gravityBase * gravityMultFall;
+        }
+
+        velocity.y += gravity * Time.deltaTime;
+        controller.Move(velocity * Time.deltaTime);
+
+
+
+        //Mouse Stuff
+        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
+        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+
+        xRotation -= mouseY;
+        xRotation = Mathf.Clamp(xRotation, -90f, 90f);
+
+        cam.transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
+        transform.Rotate(Vector3.up * mouseX);
     }
 
     void MoveAndSprint()
