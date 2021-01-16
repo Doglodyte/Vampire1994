@@ -5,7 +5,9 @@ using UnityEngine;
 public class SpriteManager : MonoBehaviour
 {
     Vector3 relativePlayerPos;
+    float newRelativePlayerPos;
     GameObject player;
+    Camera cam;
 
     //Animation
     Animator animator;
@@ -25,41 +27,50 @@ public class SpriteManager : MonoBehaviour
     void Start()
     {
         player = GameObject.Find("Player");
+        cam = Camera.main;
         animator = GetComponent<Animator>();
     }
 
     
     void Update()
     {
+
+        AnimState5();
+
+    }
+
+    void AnimState5()
+    {
+        var dir = player.transform.position - transform.parent.position;
+        dir.y = 0;
+        var angle = Vector3.SignedAngle(dir, transform.parent.forward, Vector3.up);
+
+        Debug.Log(angle);
+    }
+
+
+    void AnimState4()
+    {
         relativePlayerPos = GetComponentInParent<Transform>().position - player.transform.position;
         relativePlayerPos = Vector3.Normalize(relativePlayerPos);
 
-        Debug.Log(relativePlayerPos);
+        animator.SetFloat("playerX", relativePlayerPos.x);
+        animator.SetFloat("playerZ", relativePlayerPos.z);
 
-        FigureOutAnimationState();
+        //Debug.Log(relativePlayerPos);
     }
 
-    void FigureOutAnimationState()
+
+    void NewFigureOutAnimationState()
     {
-        if ((relativePlayerPos.x > 0.7) && (relativePlayerPos.z < 0.7))
-        {
-            ChangeAnimationState(NEAST);
-        }
-        else if ((relativePlayerPos.x < 0.7) && (relativePlayerPos.z > 0.7))
-        {
-            ChangeAnimationState(NORTH);
-        }
-    }
+        //Vector3 forward = transform.TransformDirection(Vector3.forward);
+        Vector3 forward = new Vector3(1, 0, 0);
+        forward = Vector3.Normalize(forward);
+        Vector3 toOther = player.transform.position - transform.position;
+        toOther = Vector3.Normalize(toOther);
+        newRelativePlayerPos = Vector3.Dot(forward, toOther);
+        //newRelativePlayerPos = newRelativePlayerPos * 360;
 
-    void ChangeAnimationState(string newState)
-    {
-        //Stop Same Animation From Playing Itself
-        if (currentState == newState) return;
-
-        //Play Animation
-        animator.Play(newState);
-
-        //Reassign Current State
-        currentState = newState;
+        Debug.Log(newRelativePlayerPos);
     }
 }
