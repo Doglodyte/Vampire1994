@@ -43,14 +43,11 @@ public class SpriteManager : MonoBehaviour
     {
         if ((relativePlayerPos.x > 0.7) && (relativePlayerPos.z < 0.7))
         {
-            if (currentState == NORTH)
-            {
-                ChangeAnimationState(NEAST);
-            }
-            else if ((relativePlayerPos.x < 0.7) && (relativePlayerPos.z > 0.7))
-            {
-                ChangeAnimationState(NORTH);
-            }
+            ChangeAnimationState(NEAST);
+        }
+        else if ((relativePlayerPos.x < 0.7) && (relativePlayerPos.z > 0.7))
+        {
+            ChangeAnimationState(NORTH);
         }
     }
 
