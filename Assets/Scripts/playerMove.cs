@@ -59,7 +59,15 @@ public class playerMove : MonoBehaviour
             gravity = gravityBase;
         }
 
+        MoveAndSprint();
 
+        Jumping();
+        
+        MouseLook();
+    }
+
+    void MoveAndSprint()
+    {
         //Get WASD Input
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
@@ -70,32 +78,34 @@ public class playerMove : MonoBehaviour
 
 
         //Sprinting
-            if (Input.GetKeyDown("left shift") && speed == speedBase)
+        if (Input.GetKeyDown("left shift") && speed == speedBase)
         {
             speed = speedRun;
         }
-        else if(Input.GetKeyDown("left shift") && speed == speedRun)
+        else if (Input.GetKeyDown("left shift") && speed == speedRun)
         {
             speed = speedBase;
         }
+    }
 
-
-        //Jumping
-        if(Input.GetKeyDown("space") && isGrounded)
+    void Jumping()
+    {
+        if (Input.GetKeyDown("space") && isGrounded)
         {
             gravity = gravityBase * gravityMultLowJump;
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-        else if(Input.GetKeyUp("space"))
+        else if (Input.GetKeyUp("space"))
         {
             gravity = gravityBase * gravityMultFall;
         }
 
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
+    }
 
-
-        //Mouse Look
+    void MouseLook()
+    {
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
