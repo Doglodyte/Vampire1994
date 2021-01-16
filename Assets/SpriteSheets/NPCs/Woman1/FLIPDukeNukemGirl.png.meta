@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: abe9d04319508cc46897c0ab7ce6598c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2511353611204261484
+    second: DukeNukemGirl FLIP_0
+  - first:
+      213: 7381469807963221231
+    second: DukeNukemGirl FLIP_1
+  - first:
+      213: 2674709850714891567
+    second: DukeNukemGirl FLIP_2
+  - first:
+      213: 3282289248555909503
+    second: DukeNukemGirl FLIP_3
+  - first:
+      213: -8045613088774721898
+    second: DukeNukemGirl FLIP_4
+  - first:
+      213: 2826249904554745298
+    second: DukeNukemGirl FLIP_5
+  - first:
+      213: -8656017320545559932
+    second: DukeNukemGirl FLIP_6
+  - first:
+      213: 2420143763155121834
+    second: DukeNukemGirl FLIP_7
+  - first:
+      213: -5697786551563943907
+    second: DukeNukemGirl FLIP_8
+  - first:
+      213: -2368592044694977450
+    second: DukeNukemGirl FLIP_9
+  - first:
+      213: -1686514450718502128
+    second: DukeNukemGirl FLIP_10
+  - first:
+      213: 6844754456260883243
+    second: DukeNukemGirl FLIP_11
+  - first:
+      213: 6217023558311706228
+    second: DukeNukemGirl FLIP_12
+  - first:
+      213: 4015909611857409797
+    second: DukeNukemGirl FLIP_13
+  - first:
+      213: -4457855126227971069
+    second: DukeNukemGirl FLIP_14
+  - first:
+      213: -6895536471404276887
+    second: DukeNukemGirl FLIP_15
+  - first:
+      213: 3239131309995965131
+    second: DukeNukemGirl FLIP_16
+  - first:
+      213: 4000757301552128031
+    second: DukeNukemGirl FLIP_17
+  - first:
+      213: 8195229512527614822
+    second: DukeNukemGirl FLIP_18
+  - first:
+      213: 8197468948769542826
+    second: DukeNukemGirl FLIP_19
+  - first:
+      213: 5058936800520873702
+    second: DukeNukemGirl FLIP_20
+  - first:
+      213: -3188175629766688268
+    second: DukeNukemGirl FLIP_21
+  - first:
+      213: -6733459884098570635
+    second: DukeNukemGirl FLIP_22
+  - first:
+      213: 5196751750148885524
+    second: DukeNukemGirl FLIP_23
+  - first:
+      213: -5008192601102992687
+    second: DukeNukemGirl FLIP_24
+  - first:
+      213: 9053605590626431289
+    second: DukeNukemGirl FLIP_25
+  - first:
+      213: 4830636372219679711
+    second: DukeNukemGirl FLIP_26
+  - first:
+      213: 7404317213431661170
+    second: DukeNukemGirl FLIP_27
+  - first:
+      213: 7105041293246841680
+    second: DukeNukemGirl FLIP_28
+  - first:
+      213: 4320738971643254334
+    second: DukeNukemGirl FLIP_29
+  - first:
+      213: 3290033518583701375
+    second: DukeNukemGirl FLIP_30
+  - first:
+      213: 8982606127115379804
+    second: DukeNukemGirl FLIP_31
+  - first:
+      213: 3195201680540475
+    second: DukeNukemGirl FLIP_32
+  - first:
+      213: 6928968705514447041
+    second: DukeNukemGirl FLIP_33
+  - first:
+      213: -2700977453357307280
+    second: DukeNukemGirl FLIP_34
+  - first:
+      213: 3462581466268827206
+    second: DukeNukemGirl FLIP_35
+  - first:
+      213: 3971594403595874122
+    second: DukeNukemGirl FLIP_36
+  - first:
+      213: -5065583053162898153
+    second: DukeNukemGirl FLIP_37
+  - first:
+      213: 5791963331132166539
+    second: DukeNukemGirl FLIP_38
+  - first:
+      213: 5240997644340658997
+    second: DukeNukemGirl FLIP_39
+  - first:
+      213: 35199767742432385
+    second: DukeNukemGirl FLIP_40
+  - first:
+      213: -44984684435996181
+    second: DukeNukemGirl FLIP_41
+  - first:
+      213: -3549221367949523617
+    second: DukeNukemGirl FLIP_42
+  - first:
+      213: 2910637145452914933
+    second: DukeNukemGirl FLIP_43
+  - first:
+      213: -5824713849850768252
+    second: DukeNukemGirl FLIP_44
+  - first:
+      213: 2749875887144671958
+    second: DukeNukemGirl FLIP_45
+  - first:
+      213: 256805354117226316
+    second: DukeNukemGirl FLIP_46
+  - first:
+      213: 1498140999407890812
+    second: DukeNukemGirl FLIP_47
+  - first:
+      213: 504914778933342089
+    second: DukeNukemGirl FLIP_48
+  - first:
+      213: -2732591668803743311
+    second: DukeNukemGirl FLIP_49
+  - first:
+      213: 2703562673097733316
+    second: DukeNukemGirl FLIP_63
+  - first:
+      213: -3720231457225388469
+    second: DukeNukemGirl FLIP_64
+  - first:
+      213: -3762553203647542413
+    second: DukeNukemGirl FLIP_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 626
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49986c24231e52dd0800000000000000
+      internalID: -2511353611204261484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 628
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2bef7eaf307660800000000000000
+      internalID: 7381469807963221231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 628
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256911207a7e1520800000000000000
+      internalID: 2674709850714891567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 631
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7142466ea80d8d20800000000000000
+      internalID: 3282289248555909503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 627
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6953f58d385090800000000000000
+      internalID: -8045613088774721898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 628
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9777605bd83720800000000000000
+      internalID: 2826249904554745298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 627
+        width: 35
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad047cb16afd780800000000000000
+      internalID: -8656017320545559932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 627
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fc3c1ee3169120800000000000000
+      internalID: 2420143763155121834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 627
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10880cc1556de0b0800000000000000
+      internalID: -5697786551563943907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_9
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 626
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c32ea512112fd0800000000000000
+      internalID: -2368592044694977450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 506
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135c58ea0c4898e0800000000000000
+      internalID: -1686514450718502128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 508
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23b334b9e37dfe50800000000000000
+      internalID: 6844754456260883243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 508
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7761bcfd474650800000000000000
+      internalID: 6217023558311706228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 511
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50776d8c3806bb730800000000000000
+      internalID: 4015909611857409797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 507
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3041705a1648222c0800000000000000
+      internalID: -4457855126227971069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 508
+        width: 33
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96392360d122e40a0800000000000000
+      internalID: -6895536471404276887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_16
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 507
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab729c3c4b3fc20800000000000000
+      internalID: 3239131309995965131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_17
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 507
+        width: 33
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a09f919b858730800000000000000
+      internalID: 4000757301552128031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_18
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 507
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663910b42dd4bb170800000000000000
+      internalID: 8195229512527614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_19
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 506
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa214bca39243c170800000000000000
+      internalID: 8197468948769542826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 386
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a2387734f43640800000000000000
+      internalID: 5058936800520873702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 388
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1033a082351c3d0800000000000000
+      internalID: -3188175629766688268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 388
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57636fa29e1fd82a0800000000000000
+      internalID: -6733459884098570635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 391
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c8385ee229e1840800000000000000
+      internalID: 5196751750148885524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 387
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da34842d535f7ab0800000000000000
+      internalID: -5008192601102992687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 388
+        width: 23
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93177cd015ed4ad70800000000000000
+      internalID: 9053605590626431289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_26
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 387
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35c3dcf2ed90340800000000000000
+      internalID: 4830636372219679711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 387
+        width: 22
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27287ee964b61c660800000000000000
+      internalID: 7404317213431661170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_28
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 387
+        width: 48
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c57e796d2a9260800000000000000
+      internalID: 7105041293246841680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_29
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 386
+        width: 27
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369bf3d33956fb30800000000000000
+      internalID: 4320738971643254334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 266
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5f46cd0c88ad20800000000000000
+      internalID: 3290033518583701375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 268
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a5f34ea0a8ac70800000000000000
+      internalID: 8982606127115379804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 268
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33872dd40a5b0000800000000000000
+      internalID: 3195201680540475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 272
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0acff8354a82060800000000000000
+      internalID: 6928968705514447041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 267
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6c4a0153348ad0800000000000000
+      internalID: -2700977453357307280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_35
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 268
+        width: 38
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efdce7f7f8d0030800000000000000
+      internalID: 3462581466268827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_36
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 267
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe2425110fd1730800000000000000
+      internalID: 3971594403595874122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_37
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 267
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9cff3d0f63b9b0800000000000000
+      internalID: -5065583053162898153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_38
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 267
+        width: 41
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81983866ff216050800000000000000
+      internalID: 5791963331132166539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_39
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 266
+        width: 33
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533859be693cbb840800000000000000
+      internalID: 5240997644340658997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c674900e0d7000800000000000000
+      internalID: 35199767742432385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_41
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 148
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10cd7faae206ff0800000000000000
+      internalID: -44984684435996181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55842e68f1aebec0800000000000000
+      internalID: -3549221367949523617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 151
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f827c40019a46820800000000000000
+      internalID: 2910637145452914933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_44
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 147
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d85d3d957a2fa0800000000000000
+      internalID: -5824713849850768252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 148
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da9ba5cc85892620800000000000000
+      internalID: 2749875887144671958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_46
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 147
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5394eb1b509300800000000000000
+      internalID: 256805354117226316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 147
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f72d2d477ac410800000000000000
+      internalID: 1498140999407890812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_48
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 147
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98faa28f051d10700800000000000000
+      internalID: 504914778933342089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_49
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 146
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d2c8ea52e31ad0800000000000000
+      internalID: -2732591668803743311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 101
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4fef55debf48520800000000000000
+      internalID: 2703562673097733316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_64
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec8d543351f5cc0800000000000000
+      internalID: -3720231457225388469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DukeNukemGirl FLIP_65
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 0
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8410dbc9b8cbc0800000000000000
+      internalID: -3762553203647542413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
