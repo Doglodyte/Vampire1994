@@ -10,7 +10,7 @@ public class Billboard : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        cam = Camera.main;    
+        cam = Camera.main;
     }
 
 
@@ -24,8 +24,8 @@ public class Billboard : MonoBehaviour
 
     void LateUpdate()
     {
-       transform.LookAt(camLocation);
+        transform.LookAt(camLocation);
 
-       transform.rotation = Quaternion.Euler(0f, transform.rotation.eulerAngles.y, 0f);
+        transform.rotation = Quaternion.Euler(0f, transform.rotation.eulerAngles.y, 0f);
     }
 }
